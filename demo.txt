@@ -1,1 +1,7 @@
-30
+git reset --hard id ma reset //
+//commit
+git add .
+git commit -m "dien ten"
+// log
+git log --oneline
+git log -v
