@@ -5,3 +5,5 @@ git commit -m "dien ten"
 // log
 git log --oneline
 git log -v
+// khoi tao
+git commit ****
